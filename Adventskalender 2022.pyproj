@@ -5,7 +5,7 @@
     <ProjectGuid>20d92063-8219-4fd6-8ad9-d011dc89cce9</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>Day8.py</StartupFile>
+    <StartupFile>Day9.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -30,6 +30,7 @@
     <Compile Include="Day6.py" />
     <Compile Include="Day7.py" />
     <Compile Include="Day8.py" />
+    <Compile Include="Day9.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Day1.txt" />
@@ -40,6 +41,7 @@
     <Content Include="Day6.txt" />
     <Content Include="Day7.txt" />
     <Content Include="Day8.txt" />
+    <Content Include="Day9.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
