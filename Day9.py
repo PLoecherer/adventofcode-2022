@@ -1,6 +1,4 @@
-from turtle import position
 import numpy as np
-import copy
 print("Day 9")
 
 def move_tail(head, tail):
